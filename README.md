@@ -88,11 +88,7 @@
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pkxtofyucrhtwv7adq3mccycxy&cover_image=true&theme=default" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=naveen-kumar-kulkarni&&style=flat-square" align="center" />
